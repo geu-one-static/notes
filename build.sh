@@ -19,7 +19,7 @@ for file in ./**/*.pdf; do
     filename="${file##*/}"
     filepath="${file%/*}"
     echo "$filepath $((++count))/$total"
-    convert "$file"[0] -background white -alpha remove -thumbnail x300 -gravity north -extent x150 -crop 90%x+0+0 "$file.jpg"
+    convert "$file"[0] -background white -alpha remove -thumbnail x180 -gravity north -extent x100 -crop 90%x+0+0 "$file.jpg"
 done
 
 #for file in ./**/*.{pdf,jpg}; do
