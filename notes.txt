@@ -1,49 +1,9 @@
 https://github.com/geu-one-static/notes/blob/master/ ?raw=true
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Chem Bonding.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Chem Bonding.pdf.jpg
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Electrochemistry.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Electrochemistry.pdf.jpg
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Fuels.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Fuels.pdf.jpg
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Organic Reactions and Synthesis of Drug Molecules.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Organic Reactions and Synthesis of Drug Molecules.pdf.jpg
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Polymers.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Polymers.pdf.jpg
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Spectroscopy.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Spectroscopy.pdf.jpg
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Water Chemistry.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Water Chemistry.pdf.jpg
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_All in one compnotes-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_All in one compnotes-min.pdf.jpg
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Array-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Array-min.pdf.jpg
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Functions-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Functions-min.pdf.jpg
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Pointers-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Pointers-min.pdf.jpg
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Strings-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Strings-min.pdf.jpg
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Structure _ File Handling-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Structure _ File Handling-min.pdf.jpg
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_compilation-process-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_compilation-process-min.pdf.jpg
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_os-overview-by-aakarshan.bhardwaj-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_os-overview-by-aakarshan.bhardwaj-min.pdf.jpg
 Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Boolean Algebra-min.pdf
 Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Boolean Algebra-min.pdf.jpg
 Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Combinational Circuit-min.pdf
 Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Combinational Circuit-min.pdf.jpg
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Counter _ Registor-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Counter _ Registor-min.pdf.jpg
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Logic Design-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Logic Design-min.pdf.jpg
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Logic Gates-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Logic Gates-min.pdf.jpg
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Number System-1-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Number System-1-min.pdf.jpg
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Sync _ Async Circuit design-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Sync _ Async Circuit design-min.pdf.jpg
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_logic design(1).pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_logic design(1).pdf.jpg
+__version__
+b.sh
 build.sh
 notes.txt
