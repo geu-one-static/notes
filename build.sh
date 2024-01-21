@@ -26,7 +26,9 @@ done
 git reset .
 git add .
 git ls-files | while read -r file; do
-  echo "$file" >> "$NOTES_FILE"
+  if [[ "$file" == *.pdf ]]; then
+    echo "$file" >> "$NOTES_FILE"
+  fi
 done
 
 echo $(date +%s) > __version__
