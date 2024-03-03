@@ -14,24 +14,24 @@ Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Scien
 Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Structure _ File Handling-min.pdf
 Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_compilation-process-min.pdf
 Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_os-overview-by-aakarshan.bhardwaj-min.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Centre-1.pdf
 Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Centre.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Centre_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Comparator_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_PN junction diode-1_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Rectifier prob_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_TEC Notes-2_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Transistor and its  configurations_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_UNIT 1_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_bias stabilization_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_btech 1st year paper 2019 TEC_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_diode equation-1 (1)_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_diode equation_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_final_Half wave rectifiers_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_logic gates-1 printed_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_numarical unit 1-1_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_number system and boolen algebra-1 printed_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_op-amp-class-notes1_compressed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_simplification and k-map-1 printed_compressed.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Comparator.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_PN junction diode-1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Rectifier prob.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_TEC Notes-2.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Transistor and its  configurations.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_UNIT 1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_bias stabilization.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_btech 1st year paper 2019 TEC.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_diode equation-1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_diode equation.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_final_Half wave rectifiers.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_logic gates-1 printed.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_numarical unit 1-1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_number system and boolen algebra-1 printed.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_op-amp-class-notes1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_simplification and k-map-1 printed.pdf
 Btech CSE/II Sem/TCS 201 Programming for Problem Solving/TCS 201 _Programming for Problem Solving Structure_Practice questions.pdf
 Btech CSE/II Sem/TCS 201 Programming for Problem Solving/TCS 201_Programming for Problem Solving C Structure_TCS201.pdf
 Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Boolean Algebra-min.pdf
