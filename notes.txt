@@ -68,3 +68,19 @@ Btech CSE/V Sem/TMA-502 CBNST/CBNST_Notes_UNIT-3.pdf
 Btech CSE/V Sem/TMA-502 CBNST/CBNST_Notes_UNIT-4.pdf
 Btech CSE/V Sem/TMA-502 CBNST/CBNST_Notes_UNIT-5.pdf
 Btech CSE/V Sem/TMA-502 CBNST/Notes_CBNST_Cubic Spline lecture.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 1 Handwritten.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 2 Handwritten part1.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 2 Handwritten part2.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 3 Handwritten.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 4 Handwritten.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 5 Handwritten.pdf
+Btech CSE/VI Sem/TCS 602 Software Engineering/TCS 602_Software Engieering Book _Software Engineering (3rd ed.), By K.K Aggarwal  Yogesh Singh .pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Chapter 1.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Chapter 2.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Chapter 3.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Chapter 4.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Module 1.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Module 2.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Module 3.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Module 4.pdf
+Btech CSE/VI Sem/TCS 693 Full Stack Web Development/VI Sem_TCS 693 Full Stack Web Development_Introduction FSWD.pdf
