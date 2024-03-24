@@ -1,86 +1,86 @@
 https://github.com/geu-one-static/notes/blob/master/ ?raw=true
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Chem Bonding.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Electrochemistry.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Fuels.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Organic Reactions and Synthesis of Drug Molecules.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Polymers.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Spectroscopy.pdf
-Btech CSE/I Sem/TCH 101 Chemistry/B Tech CSE_I Sem_TCH 101 Chemistry_Water Chemistry.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_All in one compnotes-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Array-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Functions-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Pointers-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Strings-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_Structure _ File Handling-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_compilation-process-min.pdf
-Btech CSE/I Sem/TCS 101 Computer Science/B Tech CSE_I Sem_TCS 101 Computer Science_os-overview-by-aakarshan.bhardwaj-min.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Centre-1.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Centre.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Comparator.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_PN junction diode-1.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Rectifier prob.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_TEC Notes-2.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_Transistor and its  configurations.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_UNIT 1.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_bias stabilization.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_btech 1st year paper 2019 TEC.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_diode equation-1.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_diode equation.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_final_Half wave rectifiers.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_logic gates-1 printed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_numarical unit 1-1.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_number system and boolen algebra-1 printed.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_op-amp-class-notes1.pdf
-Btech CSE/I Sem/TEC 101 Electronics/B Tech CSE_I Sem_TEC 101 Electronics_simplification and k-map-1 printed.pdf
-Btech CSE/II Sem/TCS 201 Programming for Problem Solving/TCS 201 _Programming for Problem Solving Structure_Practice questions.pdf
-Btech CSE/II Sem/TCS 201 Programming for Problem Solving/TCS 201_Programming for Problem Solving C Structure_TCS201.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Boolean Algebra-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Combinational Circuit-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Counter _ Registor-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Logic Design-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_Logic Gates-min.pdf
-Btech CSE/III Sem/TCS 301 Logic Design/B Tech CSE_III Sem_TCS 301 Logic Design_logic design(1).pdf
-Btech CSE/IV Sem/TCS 402 Finite Automata/B Tech CSE_IV Sem_TCS 402 Finite Automata_AutomataTheory1.pdf
-Btech CSE/IV Sem/TCS 402 Finite Automata/B Tech CSE_IV Sem_TCS 402 Finite Automata_AutomataTheory2.pdf
-Btech CSE/IV Sem/TCS 402 Finite Automata/B Tech CSE_IV Sem_TCS 402 Finite Automata_AutomataTheory3.pdf
-Btech CSE/IV Sem/TCS 402 Finite Automata/B Tech CSE_IV Sem_TCS 402 Finite Automata_AutomataTheory4.pdf
-Btech CSE/IV Sem/TCS 403 MicroProcessors/B Tech CSE_IV Sem_TCS 403 Microprocessor_8085.pdf
-Btech CSE/IV Sem/TCS 403 MicroProcessors/B Tech CSE_IV Sem_TCS 403 Microprocessor_8086.pdf
-Btech CSE/IV Sem/TCS 403 MicroProcessors/B Tech CSE_IV Sem_TCS 403 Microprocessor_microprocessorUnit1(diff).pdf
-Btech CSE/IV Sem/TCS 403 MicroProcessors/B Tech CSE_IV Sem_TCS 403 Microprocessor_microprocessorUnit1.pdf
-Btech CSE/IV Sem/TCS 408 Java/B Tech CSE_IV Sem_TCS 408 Java Programming Language_java.pdf
-Btech CSE/IV Sem/TCS 409 Design and Analysis of Algorithms/B Tech CSE_IV Sem_TCS 409 Design And Analysis Of Algorithm_DAA Notes.pdf
-Btech CSE/V Sem/TCS-502 Operating System/TCS 502_OS_UNIT-1.pdf
-Btech CSE/V Sem/TCS-502 Operating System/TCS 502_OS_UNIT-2.pdf
-Btech CSE/V Sem/TCS-502 Operating System/TCS 502_OS_UNIT-3.pdf
-Btech CSE/V Sem/TCS-502 Operating System/TCS 502_OS_UNIT-4.pdf
-Btech CSE/V Sem/TCS-502 Operating System/TCS 502_OS_UNIT-5.pdf
-Btech CSE/V Sem/TCS-503 DBMS/DBMS Lecture 1_merged_compressed (1).pdf
-Btech CSE/V Sem/TCS-503 DBMS/DBMS Unit 1 Complete.pdf
-Btech CSE/V Sem/TCS-509 Machine Learning/Machine Learning_Notes_Unit-2.pdf
-Btech CSE/V Sem/TCS-509 Machine Learning/Machine learning_Notes_Unit-1.pdf
-Btech CSE/V Sem/TCS-509 Machine Learning/Machine learning_Notes_Unit-3.pdf
-Btech CSE/V Sem/TCS-509 Machine Learning/Machine learning_Notes_Unit-4.pdf
-Btech CSE/V Sem/TCS-509 Machine Learning/Machine learning_Notes_Unit-5.pdf
-Btech CSE/V Sem/TMA-502 CBNST/CBNST_Notes_UNIT-1.pdf
-Btech CSE/V Sem/TMA-502 CBNST/CBNST_Notes_UNIT-2.pdf
-Btech CSE/V Sem/TMA-502 CBNST/CBNST_Notes_UNIT-3.pdf
-Btech CSE/V Sem/TMA-502 CBNST/CBNST_Notes_UNIT-4.pdf
-Btech CSE/V Sem/TMA-502 CBNST/CBNST_Notes_UNIT-5.pdf
-Btech CSE/V Sem/TMA-502 CBNST/Notes_CBNST_Cubic Spline lecture.pdf
-Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 1 Handwritten.pdf
-Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 2 Handwritten part1.pdf
-Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 2 Handwritten part2.pdf
-Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 3 Handwritten.pdf
-Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 4 Handwritten.pdf
-Btech CSE/VI Sem/TCS 601 Compiler Design/VI Sem_TCS 601 Compiler Design_Unit 5 Handwritten.pdf
-Btech CSE/VI Sem/TCS 602 Software Engineering/TCS 602_Software Engieering Book _Software Engineering (3rd ed.), By K.K Aggarwal  Yogesh Singh .pdf
-Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Chapter 1.pdf
-Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Chapter 2.pdf
-Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Chapter 3.pdf
-Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Chapter 4.pdf
-Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Module 1.pdf
-Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Module 2.pdf
-Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Module 3.pdf
-Btech CSE/VI Sem/TCS 604 Computer Networks/VI Sem_TCS 604 Computer Networks_Module 4.pdf
-Btech CSE/VI Sem/TCS 693 Full Stack Web Development/VI Sem_TCS 693 Full Stack Web Development_Introduction FSWD.pdf
+Btech CSE/I Sem/TCH 101 Chemistry/TCH101_Chem Bonding@Shreya Garg.pdf
+Btech CSE/I Sem/TCH 101 Chemistry/TCH101_Electrochemistry@Shreya Garg.pdf
+Btech CSE/I Sem/TCH 101 Chemistry/TCH101_Fuels.pdf
+Btech CSE/I Sem/TCH 101 Chemistry/TCH101_Organic Reactions and Synthesis of Drug Molecules.pdf
+Btech CSE/I Sem/TCH 101 Chemistry/TCH101_Polymers.pdf
+Btech CSE/I Sem/TCH 101 Chemistry/TCH101_Spectroscopy.pdf
+Btech CSE/I Sem/TCH 101 Chemistry/TCH101_Water Chemistry.pdf
+Btech CSE/I Sem/TCS 101 Computer Science/TCS101_All in one components.pdf
+Btech CSE/I Sem/TCS 101 Computer Science/TCS101_Array.pdf
+Btech CSE/I Sem/TCS 101 Computer Science/TCS101_Functions.pdf
+Btech CSE/I Sem/TCS 101 Computer Science/TCS101_Pointers.pdf
+Btech CSE/I Sem/TCS 101 Computer Science/TCS101_Strings.pdf
+Btech CSE/I Sem/TCS 101 Computer Science/TCS101_Structure File Handling.pdf
+Btech CSE/I Sem/TCS 101 Computer Science/TCS101_compilation-process.pdf
+Btech CSE/I Sem/TCS 101 Computer Science/TCS101_os-overview@Aakarshan Bhardwaj.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_Bias Stabilization.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_Btech 1st year paper 2019 TEC.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_Centre-1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_Centre.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_Comparator.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_Diode Equation.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_PN junction diode-1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_Rectifier prob.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_TEC Notes-2.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_Transistor and its  configurations.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_UNIT 1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_diode equation-1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_final_Half wave rectifiers.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_logic gates-1 printed.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_numarical unit 1-1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_number system and boolen algebra-1 printed.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_op-amp-class-notes1.pdf
+Btech CSE/I Sem/TEC 101 Electronics/TEC101_simplification and k-map-1 printed.pdf
+Btech CSE/II Sem/TCS 201 Programming for Problem Solving/TCS201_C Structure.pdf
+Btech CSE/II Sem/TCS 201 Programming for Problem Solving/TCS201_Practice questions.pdf
+Btech CSE/III Sem/TCS 301 Logic Design/TCS301_Boolean Algebra.pdf
+Btech CSE/III Sem/TCS 301 Logic Design/TCS301_Combinational Circuit.pdf
+Btech CSE/III Sem/TCS 301 Logic Design/TCS301_Counter Registor.pdf
+Btech CSE/III Sem/TCS 301 Logic Design/TCS301_Logic Design 2.pdf
+Btech CSE/III Sem/TCS 301 Logic Design/TCS301_Logic Design.pdf
+Btech CSE/III Sem/TCS 301 Logic Design/TCS301_Logic Gates.pdf
+Btech CSE/IV Sem/TCS 402 Finite Automata/TCS402_Automata Theory 1.pdf
+Btech CSE/IV Sem/TCS 402 Finite Automata/TCS402_Automata Theory 2.pdf
+Btech CSE/IV Sem/TCS 402 Finite Automata/TCS402_Automata Theory 3.pdf
+Btech CSE/IV Sem/TCS 402 Finite Automata/TCS402_Automata Theory 4.pdf
+Btech CSE/IV Sem/TCS 403 Microprocessors/TCS403_8085.pdf
+Btech CSE/IV Sem/TCS 403 Microprocessors/TCS403_8086.pdf
+Btech CSE/IV Sem/TCS 403 Microprocessors/TCS403_Microprocessor Unit 1 (diff).pdf
+Btech CSE/IV Sem/TCS 403 Microprocessors/TCS403_Microprocessor Unit 1.pdf
+Btech CSE/IV Sem/TCS 408 Java/TCS408_java programming.pdf
+Btech CSE/IV Sem/TCS 409 Design and Analysis of Algorithms/TCS409_DAA Notes.pdf
+Btech CSE/V Sem/TCS-502 Operating System/TCS502_OS-UNIT-1.pdf
+Btech CSE/V Sem/TCS-502 Operating System/TCS502_OS-UNIT-2.pdf
+Btech CSE/V Sem/TCS-502 Operating System/TCS502_OS-UNIT-3.pdf
+Btech CSE/V Sem/TCS-502 Operating System/TCS502_OS-UNIT-4.pdf
+Btech CSE/V Sem/TCS-502 Operating System/TCS502_OS-UNIT-5.pdf
+Btech CSE/V Sem/TCS-503 DBMS/TCS503_DBMS Lecture 1_merged.pdf
+Btech CSE/V Sem/TCS-503 DBMS/TCS503_DBMS Unit 1 Complete.pdf
+Btech CSE/V Sem/TCS-509 Machine Learning/TCS509_Unit-1.pdf
+Btech CSE/V Sem/TCS-509 Machine Learning/TCS509_Unit-2.pdf
+Btech CSE/V Sem/TCS-509 Machine Learning/TCS509_Unit-3.pdf
+Btech CSE/V Sem/TCS-509 Machine Learning/TCS509_Unit-4.pdf
+Btech CSE/V Sem/TCS-509 Machine Learning/TCS509_Unit-5.pdf
+Btech CSE/V Sem/TMA-502 CBNST/TMA502_CBNST-UNIT-2.pdf
+Btech CSE/V Sem/TMA-502 CBNST/TMA502_CBNST-UNIT-3.pdf
+Btech CSE/V Sem/TMA-502 CBNST/TMA502_CBNST-UNIT-4.pdf
+Btech CSE/V Sem/TMA-502 CBNST/TMA502_CBNST-UNIT-5.pdf
+Btech CSE/V Sem/TMA-502 CBNST/TMA502_CBNST_UNIT-1.pdf
+Btech CSE/V Sem/TMA-502 CBNST/TMA502_Cubic Spline Lecture.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/TCS601_Unit 1 Handwritten.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/TCS601_Unit 2 Handwritten part1.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/TCS601_Unit 2 Handwritten part2.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/TCS601_Unit 3 Handwritten.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/TCS601_Unit 4 Handwritten.pdf
+Btech CSE/VI Sem/TCS 601 Compiler Design/TCS601_Unit 5 Handwritten.pdf
+Btech CSE/VI Sem/TCS 602 Software Engineering/TCS602_Software Engineering (3rd ed.), By K.K Aggarwal@Yogesh Singh.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/TCS604_Chapter 1.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/TCS604_Chapter 2.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/TCS604_Chapter 3.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/TCS604_Chapter 4.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/TCS604_Module 1.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/TCS604_Module 2.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/TCS604_Module 3.pdf
+Btech CSE/VI Sem/TCS 604 Computer Networks/TCS604_Module 4.pdf
+Btech CSE/VI Sem/TCS 693 Full Stack Web Development/TCS693_FSWD.pdf
